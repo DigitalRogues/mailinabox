@@ -1,3 +1,5 @@
+This fork seals off nextcloud (/cloud) and roundcube (/mail) in nginx since I don't use these services and I want to reduce vectors of attacks.
+
 Mail-in-a-Box
 =============
 
